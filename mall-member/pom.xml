@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>com.p1casso.mail</groupId>
-    <artifactId>mail-member</artifactId>
+    <artifactId>mall-member</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>mail-member</name>
     <description>会员服务</description>

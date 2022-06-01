@@ -9,15 +9,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="mall-coupon" />
         <module name="mall-order" />
-        <module name="mall-common" />
         <module name="mall-ware" />
+        <module name="mall-common" />
         <module name="mall-product" />
         <module name="mall-member" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="renren-fast" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
